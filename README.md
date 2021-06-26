@@ -1,2 +1,2 @@
 "Premie"
-"Hello Thor" ⛄️
+"Hello Thor" ⛄️⚡️
